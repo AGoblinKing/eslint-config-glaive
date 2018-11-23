@@ -10,5 +10,9 @@
     "eslint": ">=3.14.1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "eslint-plugin-html": "^5.0.0",
+    "eslint-plugin-jest": "^22.0.0"
+  }
 }
