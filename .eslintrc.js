@@ -26,7 +26,7 @@ module.exports = {
             "never"
         ],
         "array-callback-return": "error",
-        "array-element-newline": "off",
+        "array-element-newline": "error",
         "arrow-body-style": [
             "error",
             "as-needed"
